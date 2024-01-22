@@ -4,7 +4,7 @@ This project is designed as an opportunity to play with a variety of technologie
 
 ## Project Status
 
-This project is currently in its initial stages. [Requirements are being laid out](#project-requirements) and parts of the stack are still being learned.
+This project is currently in its initial stages. [Requirements are being laid out](#project-requirements--reaches) and parts of the stack are still being learned.
 
 ## Project Requirements + Reaches
 1. Allow a group of 2 or more people to view and modify a plan together.
